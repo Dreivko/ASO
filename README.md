@@ -6,8 +6,7 @@ For software Architecture Class
 - Python
 
 # Software Design Patterns
-+ ## Singleton
-  - [Singleton](https://github.com/Dreivko/ASO/tree/master/ASO/ASO/src/Singleton)
+- [Singleton](https://github.com/Dreivko/ASO/tree/master/ASO/ASO/src/Singleton)
 
 ## License
-[GNU General Public License v3.0] (https://choosealicense.com/licenses/gpl-3.0/)
+[GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/)
