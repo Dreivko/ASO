@@ -1,8 +1,13 @@
 # Software Architecture / Arquitectura de Software
 For software Architecture Class
 
+# Programming Languages
+- Java
+- Python
 
-### Singleton
-- [Singleton](https://github.com/Dreivko/ASO/tree/master/ASO/ASO/src/Singleton)
+# Software Design Patterns
++ ## Singleton
+  - [Singleton](https://github.com/Dreivko/ASO/tree/master/ASO/ASO/src/Singleton)
 
 ## License
+[GNU General Public License v3.0] (https://choosealicense.com/licenses/gpl-3.0/)
