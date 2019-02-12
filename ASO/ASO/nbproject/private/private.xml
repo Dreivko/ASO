@@ -3,11 +3,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/C:/Users/jorge_000/Desktop/Trabajos%20U/Semestre%20IX/Arquitectura%20de%20Software/ASO/ASO/ASO/src/abstractFactory/Color/Color.java</file>
             <file>file:/C:/Users/jorge_000/Desktop/Trabajos%20U/Semestre%20IX/Arquitectura%20de%20Software/ASO/ASO/ASO/src/abstractFactory/UFOShip/EnemyUFO.java</file>
             <file>file:/C:/Users/jorge_000/Desktop/Trabajos%20U/Semestre%20IX/Arquitectura%20de%20Software/ASO/ASO/ASO/src/abstractFactory/UFOShip/UFOShip.java</file>
-            <file>file:/C:/Users/jorge_000/Desktop/Trabajos%20U/Semestre%20IX/Arquitectura%20de%20Software/ASO/ASO/ASO/src/abstractFactory/UFOShip/Color/Red.java</file>
-            <file>file:/C:/Users/jorge_000/Desktop/Trabajos%20U/Semestre%20IX/Arquitectura%20de%20Software/ASO/ASO/ASO/src/abstractFactory/UFOShip/Color/Color.java</file>
-            <file>file:/C:/Users/jorge_000/Desktop/Trabajos%20U/Semestre%20IX/Arquitectura%20de%20Software/ASO/ASO/ASO/src/abstractFactory/UFOShip/Color/Blue.java</file>
+            <file>file:/C:/Users/jorge_000/Desktop/Trabajos%20U/Semestre%20IX/Arquitectura%20de%20Software/ASO/ASO/ASO/src/abstractFactory/Color/Blue.java</file>
+            <file>file:/C:/Users/jorge_000/Desktop/Trabajos%20U/Semestre%20IX/Arquitectura%20de%20Software/ASO/ASO/ASO/src/abstractFactory/UFOAssembly.java</file>
+            <file>file:/C:/Users/jorge_000/Desktop/Trabajos%20U/Semestre%20IX/Arquitectura%20de%20Software/ASO/ASO/ASO/src/abstractFactory/UFOShipFactory/AllyBlueUFO.java</file>
+            <file>file:/C:/Users/jorge_000/Desktop/Trabajos%20U/Semestre%20IX/Arquitectura%20de%20Software/ASO/ASO/ASO/src/abstractFactory/UFOShipFactory/EnemyRedUFO.java</file>
+            <file>file:/C:/Users/jorge_000/Desktop/Trabajos%20U/Semestre%20IX/Arquitectura%20de%20Software/ASO/ASO/ASO/src/abstractFactory/Color/Red.java</file>
             <file>file:/C:/Users/jorge_000/Desktop/Trabajos%20U/Semestre%20IX/Arquitectura%20de%20Software/ASO/ASO/ASO/src/abstractFactory/UFOShip/AllyUFO.java</file>
         </group>
     </open-files>

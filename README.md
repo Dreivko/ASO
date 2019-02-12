@@ -10,6 +10,7 @@ For Software Architecture Class
 
 ## Software Design Patterns
   - [Singleton](https://github.com/Dreivko/ASO/tree/master/ASO/ASO/src/Singleton)
+  - [Abstract Factory](https://github.com/Dreivko/ASO/tree/master/ASO/ASO/src/abstractFactory)
 
 ## License
 [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/)
