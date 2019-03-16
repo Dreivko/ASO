@@ -4,7 +4,12 @@ package adapter;
 public class Client {
     public static void main(String [] args){
         
-        Vehicle _Car, _WoodTruck, _Carriage, _Tricycle;
+        //Vehicle _Car, _WoodTruck, _Carriage, _Tricycle;
+        
+        Vehicle _Car;
+        Vehicle _WoodTruck;
+        Vehicle _Carriage;
+        Vehicle _Tricycle;
         
         _Car = new Car();
         _Car.speedUp();
