@@ -6,13 +6,14 @@ For Software Architecture Class
 
 ## Programming Languages
   - Java
-  - Python
+  - Python (In Development)
 
 ## Software Design Patterns
   - [Singleton](https://github.com/Dreivko/ASO/tree/master/ASO/ASO/src/Singleton)
   - [Abstract Factory](https://github.com/Dreivko/ASO/tree/master/ASO/ASO/src/abstractFactory)
   - [Builder](https://github.com/Dreivko/ASO/tree/master/ASO/ASO/src/builder)
   - [Adapter](https://github.com/Dreivko/ASO/tree/master/ASO/ASO/src/adapter)
+  - [Composite](https://github.com/Dreivko/ASO/tree/master/ASO/ASO/src/composite)
 
 ## License
 [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/)
