@@ -3,10 +3,10 @@ package composite;
 
 public interface IBox {
     
-    public void AddIBox();
+    public void addIBox();
     
-    public double GetWeight();
+    public double getWeight();
     
-    public boolean AddItem(IBox _IBox);
+    public boolean addItem(IBox _IBox);
             
 }

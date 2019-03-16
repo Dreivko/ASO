@@ -7,17 +7,17 @@ public class DVD implements IBox{
     protected int _NDVDs;
     
     @Override
-    public void AddIBox() {
+    public void addIBox() {
         _NDVDs = _NDVDs + 1;
     }
 
     @Override
-    public double GetWeight() {
+    public double getWeight() {
         return _NDVDs * _Weight;
     }
     
     @Override
-    public boolean AddItem(IBox _IBox){
+    public boolean addItem(IBox _IBox){
         return false;
     }
 }

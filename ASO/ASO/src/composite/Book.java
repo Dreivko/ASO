@@ -7,17 +7,17 @@ public class Book implements IBox{
     protected int _NBooks;
     
     @Override
-    public void AddIBox() {
+    public void addIBox() {
         _NBooks = _NBooks + 1;
     }
 
     @Override
-    public double GetWeight() {
+    public double getWeight() {
         return _NBooks * _Weight;
     }
     
     @Override
-    public boolean AddItem(IBox _IBox){
+    public boolean addItem(IBox _IBox){
         return false;
     }
 }

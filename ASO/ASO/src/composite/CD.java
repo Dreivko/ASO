@@ -7,17 +7,17 @@ public class CD implements IBox{
     protected int _NCDs;
     
     @Override
-    public void AddIBox() {
+    public void addIBox() {
         _NCDs = _NCDs + 1;
     }
 
     @Override
-    public double GetWeight() {
+    public double getWeight() {
         return _NCDs * _Weight;
     }
     
     @Override
-    public boolean AddItem(IBox _IBox){
+    public boolean addItem(IBox _IBox){
         return false;
     }
 }
