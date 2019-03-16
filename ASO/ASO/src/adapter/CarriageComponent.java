@@ -3,15 +3,15 @@ package adapter;
 
 public class CarriageComponent {
     
-    public void PullTheHorses(){
+    public void pullTheHorses(){
         System.out.println("Pull the horses");
     }
     
-    public void Drive(){
+    public void drive(){
         System.out.println("Horses Speed Up");
     }
     
-    public void Snatch(){
+    public void snatch(){
         System.out.println("Horses Speed Up");
     }
    

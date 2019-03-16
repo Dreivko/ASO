@@ -3,7 +3,7 @@ package adapter;
 
 public interface Vehicle {
     
-    public void SpeedUp();
-    public void Brake();
+    public void speedUp();
+    public void brake();
     
 }

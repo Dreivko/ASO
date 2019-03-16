@@ -6,15 +6,15 @@ public class Tricycle implements Vehicle{
     protected TricycleComponent _Tricycle = new TricycleComponent();
     
     @Override
-    public void SpeedUp() {
-        _Tricycle.Pedalling();
+    public void speedUp() {
+        _Tricycle.pedalling();
         System.out.println("Tricycle Speed Up");
     }
 
     @Override
-    public void Brake() {
-        _Tricycle.DownFeets();
-        _Tricycle.TouchFloor();
+    public void brake() {
+        _Tricycle.downFeets();
+        _Tricycle.touchFloor();
         System.out.println("Tricycle Brake");
     }
     

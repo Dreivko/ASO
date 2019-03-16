@@ -7,7 +7,7 @@ public abstract class DocumentBuilder {
     
     public abstract void SetClient(String _ClientName, String _ClientID);
     
-    public Document Result(){
+    public Document result(){
         return _Document;
     }
 }

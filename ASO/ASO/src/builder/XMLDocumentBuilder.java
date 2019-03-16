@@ -14,7 +14,7 @@ public class XMLDocumentBuilder extends DocumentBuilder{
                          + "    <Name> " + _ClientName + " </Name> \n"
                          + "    <Id> "   + _ClientID   + " </id> \n" 
                          + "</XTML>";
-        _Document.AddDocument(_DocumentContent);
+        _Document.addDocument(_DocumentContent);
     }
 
 }

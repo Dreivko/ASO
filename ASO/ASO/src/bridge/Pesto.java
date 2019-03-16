@@ -3,8 +3,8 @@ package bridge;
 
 public class Pesto implements Pasta{
     
-    public Pesto(){
-    }
+    //public Pesto(){
+    //}
     
     @Override
     public void procesar() {

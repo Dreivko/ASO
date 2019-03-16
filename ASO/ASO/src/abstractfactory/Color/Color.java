@@ -5,7 +5,7 @@ import abstractfactory.ufoship.UFOShip;
 
 public interface Color {
     
-    public void ColorUFO(UFOShip UFO);
+    public void colorUFO(UFOShip UFO);
     
     public boolean isPrimary ();
     

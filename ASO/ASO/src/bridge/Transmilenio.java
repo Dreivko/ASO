@@ -3,8 +3,8 @@ package bridge;
 
 public class Transmilenio implements PerroCaliente{
     
-    public Transmilenio(){
-    }
+    //public Transmilenio(){
+    //}
     
     @Override
     public void procesar() {

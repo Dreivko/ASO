@@ -3,15 +3,15 @@ package adapter;
 
 public class WoodTruckComponent {
     
-    public void DownFeets(){
+    public void downFeets(){
         System.out.println("Down Feets");
     }
     
-    public void TouchFloor(){
+    public void touchFloor(){
         System.out.println("Touch Floor");
     }
     
-    public void Run(){
+    public void run(){
         System.out.println("Ruuun");
     }
 }

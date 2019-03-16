@@ -14,7 +14,7 @@ public class HTMLDocumentBuilder extends DocumentBuilder{
                          + "    <h1> " + _ClientName + " </h1> \n"
                          + "    <h2> " + _ClientID   + " </h2> \n" 
                          + "</HTML>";
-        _Document.AddDocument(_DocumentContent);
+        _Document.addDocument(_DocumentContent);
     }
     
 }

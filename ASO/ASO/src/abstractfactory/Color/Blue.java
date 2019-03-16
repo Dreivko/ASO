@@ -7,7 +7,7 @@ public class Blue implements Color{
     private boolean _IsPrimary;
 
     @Override
-    public void ColorUFO(UFOShip UFO) {
+    public void colorUFO(UFOShip UFO) {
         System.out.println("UFO Color is Blue");
     }
 

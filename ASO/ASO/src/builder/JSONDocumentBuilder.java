@@ -14,7 +14,7 @@ public class JSONDocumentBuilder extends DocumentBuilder{
                          + "    Name: " + '"' + _ClientName + '"' + "\n"
                          + "    Id:  "  + '"' + _ClientID   + '"' + " \n" 
                          + "}";
-        _Document.AddDocument(_DocumentContent);
+        _Document.addDocument(_DocumentContent);
     }
 
 }

@@ -17,15 +17,15 @@ public class Client {
         switch (_Selection) {
             case "1":
                 _DocumentBuilder = new HTMLDocumentBuilder();
-                Create(_DocumentBuilder);
+                create(_DocumentBuilder);
                 break;
             case "2":
                 _DocumentBuilder = new XMLDocumentBuilder();
-                Create(_DocumentBuilder);
+                create(_DocumentBuilder);
                 break;
             case "3":
                 _DocumentBuilder = new JSONDocumentBuilder();
-                Create(_DocumentBuilder);
+                create(_DocumentBuilder);
                 break;
             default:
                 System.out.println("the number is not valid ");
@@ -34,9 +34,9 @@ public class Client {
         
     }
     
-    public static void Create(DocumentBuilder _DocumentBuilder){
+    public static void create(DocumentBuilder _DocumentBuilder){
         Builder _Builder = new Builder(_DocumentBuilder);
-        Document _Document = _Builder.Build("Markus", "1475008");
-        _Document.Print();
+        Document _Document = _Builder.build("Markus", "1475008");
+        _Document.print();
     }
 }

@@ -7,26 +7,26 @@ public class Client {
         Vehicle _Car, _WoodTruck, _Carriage, _Tricycle;
         
         _Car = new Car();
-        _Car.SpeedUp();
-        _Car.Brake();
+        _Car.speedUp();
+        _Car.brake();
         
         System.out.println();
         
         _WoodTruck = new WoodTruck();
-        _WoodTruck.SpeedUp();
-        _WoodTruck.Brake();
+        _WoodTruck.speedUp();
+        _WoodTruck.brake();
         
         System.out.println();
         
         _Carriage = new Carriage();
-        _Carriage.SpeedUp();
-        _Carriage.Brake();
+        _Carriage.speedUp();
+        _Carriage.brake();
         
         System.out.println();
         
         _Tricycle = new Tricycle();
-        _Tricycle.SpeedUp();
-        _Tricycle.Brake();
+        _Tricycle.speedUp();
+        _Tricycle.brake();
         
     }
 }

@@ -4,12 +4,12 @@ package adapter;
 public class Car implements Vehicle{
 
     @Override
-    public void SpeedUp() {
+    public void speedUp() {
         System.out.println("Car Speed Up");
     }
 
     @Override
-    public void Brake() {
+    public void brake() {
         System.out.println("Car Brake");
     }
     

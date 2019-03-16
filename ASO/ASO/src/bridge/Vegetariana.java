@@ -3,8 +3,8 @@ package bridge;
 
 public class Vegetariana implements Hamburguesa{
     
-    public Vegetariana(){
-    }
+    //public Vegetariana(){
+    //}
     
     @Override
     public void procesar() {

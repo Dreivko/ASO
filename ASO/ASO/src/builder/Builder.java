@@ -8,9 +8,9 @@ public class Builder {
         this._Builder = _Builder;
     }
     
-    public Document Build(String _ClientName, String _ClientID){
+    public Document build(String _ClientName, String _ClientID){
         _Builder.SetClient(_ClientName, _ClientID);
-        Document _Document = _Builder.Result();
+        Document _Document = _Builder.result();
         return _Document;
     }
     
