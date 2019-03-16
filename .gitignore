@@ -12,3 +12,6 @@ ASO/ASO/src/abstractFactoryOracle
 ASO/ASO/src/compositeEx
 ASO/ASO/src/adapterEx
 ASO/ASO/src/builderEx
+ASO/ASO/nbproject/private/*
+ASO/ASO/nbproject/Makefile-*.mk
+ASO/ASO/nbproject/Package-*.bash
