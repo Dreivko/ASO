@@ -3,8 +3,8 @@ package bridge;
 
 public class Espinacas implements Pasta{
     
-    public Espinacas() {
-    }
+    //public Espinacas() {
+    //}
 
     @Override
     public void procesar() {

@@ -8,7 +8,7 @@ public class JSONDocumentBuilder extends DocumentBuilder{
     }
     
     @Override
-    public void SetClient(String _ClientName, String _ClientID) {
+    public void setClient(String _ClientName, String _ClientID) {
         String _DocumentContent;
         _DocumentContent = "{ \n"  
                          + "    Name: " + '"' + _ClientName + '"' + "\n"

@@ -9,7 +9,7 @@ public class Builder {
     }
     
     public Document build(String _ClientName, String _ClientID){
-        _Builder.SetClient(_ClientName, _ClientID);
+        _Builder.setClient(_ClientName, _ClientID);
         Document _Document = _Builder.result();
         return _Document;
     }

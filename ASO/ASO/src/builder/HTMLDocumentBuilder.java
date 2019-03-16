@@ -8,7 +8,7 @@ public class HTMLDocumentBuilder extends DocumentBuilder{
     }
     
     @Override
-    public void SetClient(String _ClientName, String _ClientID) {
+    public void setClient(String _ClientName, String _ClientID) {
         String _DocumentContent;
         _DocumentContent = "<HTML> \n"  
                          + "    <h1> " + _ClientName + " </h1> \n"

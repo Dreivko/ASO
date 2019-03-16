@@ -3,8 +3,8 @@ package bridge;
 
 public class Sencillo implements PerroCaliente{
     
-    public Sencillo(){
-    }
+    //public Sencillo(){
+    //}
     
     @Override
     public void procesar() {
