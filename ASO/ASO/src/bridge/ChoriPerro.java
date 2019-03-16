@@ -3,8 +3,8 @@ package bridge;
 
 public class ChoriPerro implements PerroCaliente{
     
-    public ChoriPerro(){
-    }
+    //public ChoriPerro(){
+    //}
     
     @Override
     public void procesar() {

@@ -4,8 +4,8 @@ package bridge;
 public abstract class Preparacion {
     
     // Referencia al Implementador
-    IProcesar implementador;
-    String nombre;
+    protected IProcesar implementador;
+    protected String nombre;
 
     
     public IProcesar getImplementador() {

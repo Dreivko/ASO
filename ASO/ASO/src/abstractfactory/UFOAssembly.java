@@ -12,12 +12,12 @@ public class UFOAssembly {
         UFOShipFactory _AllyUFO = new AllyBlueUFO();
         UFOShipFactory _EnemyUFO = new EnemyRedUFO();
         
-        _AllyUFO.CreateShip();
-        _AllyUFO.CreateColor();
+        _AllyUFO.createShip();
+        _AllyUFO.createColor();
         
         
-        _EnemyUFO.CreateShip();
-        _EnemyUFO.CreateColor();
+        _EnemyUFO.createShip();
+        _EnemyUFO.createColor();
         
         
         

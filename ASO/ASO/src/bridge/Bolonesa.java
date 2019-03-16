@@ -3,8 +3,8 @@ package bridge;
 
 public class Bolonesa implements Pasta{
 
-    public Bolonesa() {
-    }
+    //public Bolonesa() {
+    //}
 
     @Override
     public void procesar() {

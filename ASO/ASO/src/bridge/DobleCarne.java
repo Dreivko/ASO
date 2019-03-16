@@ -3,8 +3,8 @@ package bridge;
 
 public class DobleCarne implements Hamburguesa{
     
-    public DobleCarne(){
-    }
+    //public DobleCarne(){
+    //}
     
     @Override
     public void procesar() {

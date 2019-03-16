@@ -6,7 +6,7 @@ import abstractfactory.ufoship.UFOShip;
 
 public interface UFOShipFactory {
     
-    public UFOShip CreateShip();
+    public UFOShip createShip();
     
-    public Color CreateColor ();
+    public Color createColor ();
 }
