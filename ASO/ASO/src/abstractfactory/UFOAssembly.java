@@ -1,9 +1,9 @@
 
-package abstractFactory;
+package abstractfactory;
 
-import abstractFactory.UFOShipFactory.AllyBlueUFO;
-import abstractFactory.UFOShipFactory.EnemyRedUFO;
-import abstractFactory.UFOShipFactory.UFOShipFactory;
+import abstractfactory.ufoshipfactory.AllyBlueUFO;
+import abstractfactory.ufoshipfactory.EnemyRedUFO;
+import abstractfactory.ufoshipfactory.UFOShipFactory;
 
 public class UFOAssembly {
     

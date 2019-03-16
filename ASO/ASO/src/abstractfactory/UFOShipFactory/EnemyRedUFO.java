@@ -1,10 +1,10 @@
 
-package abstractFactory.UFOShipFactory;
+package abstractfactory.ufoshipfactory;
 
-import abstractFactory.Color.Red;
-import abstractFactory.Color.Color;
-import abstractFactory.UFOShip.EnemyUFO;
-import abstractFactory.UFOShip.UFOShip;
+import abstractfactory.color.Red;
+import abstractfactory.color.Color;
+import abstractfactory.ufoship.EnemyUFO;
+import abstractfactory.ufoship.UFOShip;
 
 public class EnemyRedUFO implements UFOShipFactory {
     @Override

@@ -1,10 +1,10 @@
 
-package abstractFactory.UFOShipFactory;
+package abstractfactory.ufoshipfactory;
 
-import abstractFactory.Color.Blue;
-import abstractFactory.Color.Color;
-import abstractFactory.UFOShip.AllyUFO;
-import abstractFactory.UFOShip.UFOShip;
+import abstractfactory.color.Blue;
+import abstractfactory.color.Color;
+import abstractfactory.ufoship.AllyUFO;
+import abstractfactory.ufoship.UFOShip;
 
 public class AllyBlueUFO implements UFOShipFactory{
 

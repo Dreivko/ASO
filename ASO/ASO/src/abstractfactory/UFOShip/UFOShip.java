@@ -1,4 +1,4 @@
-package abstractFactory.UFOShip;
+package abstractfactory.ufoship;
 
 public interface UFOShip {
     

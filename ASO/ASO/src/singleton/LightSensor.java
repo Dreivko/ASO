@@ -1,4 +1,4 @@
-package Singleton;
+package singleton;
 
 public final class LightSensor {
     private static volatile LightSensor instance = null;

@@ -1,9 +1,10 @@
 
-package abstractFactory.UFOShip;
+package abstractfactory.ufoship;
 
-public class AllyUFO implements UFOShip{
-    private String _Size = "M";
-    private String _Weapon = "Lasers";
+public class EnemyUFO implements UFOShip{
+
+    private String _Size = "S";
+    private String _Weapon = "Bazooka";
     
     @Override
     public String getSize() {
@@ -14,4 +15,5 @@ public class AllyUFO implements UFOShip{
     public String getWeapon() {
         return _Weapon;
     }
+    
 }

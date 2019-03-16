@@ -1,7 +1,7 @@
 
-package abstractFactory.Color;
+package abstractfactory.color;
 
-import abstractFactory.UFOShip.UFOShip;
+import abstractfactory.ufoship.UFOShip;
 
 public class Red implements Color{
     
@@ -13,12 +13,12 @@ public class Red implements Color{
     }
 
     @Override
-    public boolean IsPrimary() {
+    public boolean isPrimary() {
         return _IsPrimary;
     }
 
     @Override
-    public void SetIsPrimary() {
+    public void setIsPrimary() {
         _IsPrimary = true;
     }
     
