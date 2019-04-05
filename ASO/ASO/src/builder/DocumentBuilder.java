@@ -1,6 +1,11 @@
 
 package builder;
 
+
+/**
+ This is AbstractBuilder
+ **/
+
 public abstract class DocumentBuilder {
     
     protected Document _Document;
