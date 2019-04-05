@@ -6,6 +6,10 @@ import abstractfactory.color.Color;
 import abstractfactory.ufoship.EnemyUFO;
 import abstractfactory.ufoship.UFOShip;
 
+/**
+ This is Factory 2
+ **/
+
 public class EnemyRedUFO implements UFOShipFactory {
     @Override
     public UFOShip createShip() {

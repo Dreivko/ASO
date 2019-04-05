@@ -3,6 +3,10 @@ package abstractfactory.color;
 
 import abstractfactory.ufoship.UFOShip;
 
+/**
+ This is Product B1
+ **/
+
 public class Blue implements Color{
     private boolean _IsPrimary;
 

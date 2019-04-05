@@ -1,6 +1,10 @@
 
 package abstractfactory.ufoship;
 
+/**
+ This is Product A1
+ **/
+
 public class AllyUFO implements UFOShip{
     private String _Size = "M";
     private String _Weapon = "Lasers";

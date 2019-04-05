@@ -1,6 +1,10 @@
 
 package abstractfactory.ufoship;
 
+/**
+ This is Product A2
+ **/
+
 public class EnemyUFO implements UFOShip{
 
     private String _Size = "S";
