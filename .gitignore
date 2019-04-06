@@ -8,10 +8,14 @@ dist/
 nbdist/
 .nb-gradle/
 
+
 ASO/ASO/src/abstractFactoryOracle
 ASO/ASO/src/compositeEx
 ASO/ASO/src/adapterEx
 ASO/ASO/src/builderEx
+ASO/ASO/src/proxyEx
+ASO/ASO/src/proxyMusic
 ASO/ASO/nbproject/private/*
 ASO/ASO/nbproject/Makefile-*.mk
 ASO/ASO/nbproject/Package-*.bash
+ASO/ASO/ASO/nbproject/private
