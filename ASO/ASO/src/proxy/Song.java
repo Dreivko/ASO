@@ -6,6 +6,7 @@ public class Song implements Animation {
     
     @Override
     public void draw() {
+        /*Nothing*/
     }
 
     @Override

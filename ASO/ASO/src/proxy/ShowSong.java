@@ -1,9 +1,6 @@
 
 package proxy;
 
-import java.awt.BorderLayout;
-import javax.swing.*;
-
 public class ShowSong{
     
     public static void main(String [] args){
