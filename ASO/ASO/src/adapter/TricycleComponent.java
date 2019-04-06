@@ -1,6 +1,11 @@
 
 package adapter;
 
+
+/**
+ Adaptee
+ **/
+
 public class TricycleComponent {
     
     public void downFeets(){

@@ -1,6 +1,11 @@
 
 package adapter;
 
+
+/**
+ Adapter
+ **/
+
 public class Tricycle implements Vehicle{
 
     protected TricycleComponent _Tricycle = new TricycleComponent();

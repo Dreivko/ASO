@@ -1,6 +1,11 @@
 
 package adapter;
 
+
+/**
+ Adapter
+ **/
+
 public class Carriage implements Vehicle{
 
     protected CarriageComponent _Carriage = new CarriageComponent();

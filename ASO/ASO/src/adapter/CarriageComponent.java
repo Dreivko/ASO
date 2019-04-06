@@ -1,6 +1,11 @@
 
 package adapter;
 
+
+/**
+ Adaptee
+ **/
+
 public class CarriageComponent {
     
     public void pullTheHorses(){

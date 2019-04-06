@@ -1,6 +1,11 @@
 
 package adapter;
 
+
+/**
+ Adapter
+ **/
+
 public class WoodTruck implements Vehicle{
 
     protected WoodTruckComponent _WoodTruck = new WoodTruckComponent();
