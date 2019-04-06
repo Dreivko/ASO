@@ -9,13 +9,18 @@ For Software Architecture Class
   * Python (In Development)
 
 ## Software Design Patterns
-  * [Abstract Factory](https://github.com/Dreivko/ASO/tree/master/ASO/ASO/src/abstractfactory)
-  * [Adapter](https://github.com/Dreivko/ASO/tree/master/ASO/ASO/src/adapter)
-  * [Bridge](https://github.com/Dreivko/ASO/tree/master/ASO/ASO/src/bridge)
-  * [Builder](https://github.com/Dreivko/ASO/tree/master/ASO/ASO/src/builder)
-  * [Composite](https://github.com/Dreivko/ASO/tree/master/ASO/ASO/src/composite)
-  * [Proxy](https://github.com/Dreivko/ASO/tree/master/ASO/ASO/src/proxy)
-  * [Singleton](https://github.com/Dreivko/ASO/tree/master/ASO/ASO/src/singleton)
+<div>
+  <ul>
+    <li><a href="https://github.com/Dreivko/ASO/tree/master/ASO/ASO/src/abstractfactory">Abstract Factory</a></li>
+    <li><a href="https://github.com/Dreivko/ASO/tree/master/ASO/ASO/src/adapter">Adapter</a></li>
+    <li><a href="https://github.com/Dreivko/ASO/tree/master/ASO/ASO/src/bridge">Bridge</a></li>
+    <li><a href="https://github.com/Dreivko/ASO/tree/master/ASO/ASO/src/builder">Builder</a></li>
+    <li><a href="https://github.com/Dreivko/ASO/tree/master/ASO/ASO/src/composite">Composite</a></li>
+    <li><a href="https://github.com/Dreivko/ASO/tree/master/ASO/ASO/src/proxy">Proxy</a></li>
+    <li><a href="https://github.com/Dreivko/ASO/tree/master/ASO/ASO/src/singleton">Singleton</a></li>
+  </ul>
+  
+</div>
 
 ## License
 [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/)
