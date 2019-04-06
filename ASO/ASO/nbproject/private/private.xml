@@ -3,7 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/jorge_000/Desktop/Trabajos%20U/Semestre%20IX/Arquitectura%20de%20Software/ASO/ASO/ASO/src/composite/Client.java</file>
+            <file>file:/C:/Users/jorge_000/Desktop/Trabajos%20U/Semestre%20IX/Arquitectura%20de%20Software/ASO/ASO/ASO/src/proxyMusic/Song.java</file>
+            <file>file:/C:/Users/jorge_000/Desktop/Trabajos%20U/Semestre%20IX/Arquitectura%20de%20Software/ASO/ASO/ASO/src/proxyMusic/ShowSong.java</file>
+            <file>file:/C:/Users/jorge_000/Desktop/Trabajos%20U/Semestre%20IX/Arquitectura%20de%20Software/ASO/ASO/ASO/src/proxyMusic/Window.java</file>
+            <file>file:/C:/Users/jorge_000/Desktop/Trabajos%20U/Semestre%20IX/Arquitectura%20de%20Software/ASO/ASO/ASO/src/proxyMusic/ProxyAnimation.java</file>
         </group>
     </open-files>
 </project-private>
