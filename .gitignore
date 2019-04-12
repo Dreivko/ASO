@@ -15,7 +15,10 @@ ASO/ASO/src/adapterEx
 ASO/ASO/src/builderEx
 ASO/ASO/src/proxyEx
 ASO/ASO/src/proxyMusic
+ASO/ASO/src/chainOfResponsabilityEx
+
 ASO/ASO/nbproject/private/*
 ASO/ASO/nbproject/Makefile-*.mk
 ASO/ASO/nbproject/Package-*.bash
-ASO/ASO/ASO/nbproject/private
+ASO/ASO/nbproject/private/private.xml
+ASO/ASO/nbproject/private/private.properties
