@@ -1,4 +1,4 @@
-# Software Architecture / Arquitecturade Software
+# Software Architecture / Arquitectura de Software
 For Software Architecture Class
 
 ## Code Quality
