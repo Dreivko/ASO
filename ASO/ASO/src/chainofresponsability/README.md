@@ -1,5 +1,5 @@
 # Chain of Responsability Design Pattern
-![Pattern](https://github.com/Dreivko/ASO/blob/master/ASO/ASO/src/chainOfResponsability/ChainofResponsability.png)
+![Pattern](https://github.com/Dreivko/ASO/blob/master/ASO/ASO/src/chainofresponsability/ChainofResponsability.png)
 
 ## References
 <div>

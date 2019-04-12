@@ -1,5 +1,5 @@
 
-package chainOfResponsability;
+package chainofresponsability;
 
 public abstract class Person {
     

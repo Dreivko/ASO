@@ -1,8 +1,8 @@
 
-package chainOfResponsability;
+package chainofresponsability;
 
-public class Director extends Person{
-    
+public class Dean extends Person{
+
     @Override
     protected String giveNormalPermission(){
         return "Normal Permission";
@@ -18,12 +18,12 @@ public class Director extends Person{
     
     @Override
     protected String getDescription() {
-        return "I'm Director";
+        return "I'm Dean";
     }
     
     @Override
     protected void processRequest(int _PermissionDays){
-        if (_PermissionDays <= 3 && _PermissionDays > 1){
+        if (_PermissionDays > 3 && _PermissionDays <= 5){
             System.out.println(getDescription() +  " I'll process this");
             System.out.println(giveNormalPermission());
         }else{
