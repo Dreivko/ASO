@@ -5,12 +5,8 @@ For Software Architecture Class
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/b5b753549e334d3c9394fb354c375649)](https://app.codacy.com/app/Dreivko/ASO?utm_source=github.com&utm_medium=referral&utm_content=Dreivko/ASO&utm_campaign=Badge_Grade_Dashboard)
 
 ## Programming Languages
-<div>
-  <ul>
-    <li>Java</li>
-    <li>Python (In Development)</li>
-  </ul>
-</div>
+-  Java
+-  Python (In Development)
 
 ## Software Design Patterns
 <div>
