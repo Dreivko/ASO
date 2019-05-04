@@ -1,5 +1,5 @@
 
-package comand;
+package command;
 
 import java.util.List;
 
