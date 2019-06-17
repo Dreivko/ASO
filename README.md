@@ -1,4 +1,4 @@
-# Software Architecture / Arquitectura de Software
+# Software Architecture - Java
 For Software Architecture Class
 
 ## Code Quality
@@ -6,7 +6,6 @@ For Software Architecture Class
 
 ## Programming Languages
 -  Java
--  Python (In Development)
 
 ## Software Design Patterns
 <div>
