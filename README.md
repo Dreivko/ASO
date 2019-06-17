@@ -18,6 +18,8 @@ For Software Architecture Class
     <li><a href="https://github.com/Dreivko/ASO/tree/master/ASO/ASO/src/chainofresponsability">Chain of Responsability</a></li>
     <li><a href="https://github.com/Dreivko/ASO/tree/master/ASO/ASO/src/command">Command</a></li>
     <li><a href="https://github.com/Dreivko/ASO/tree/master/ASO/ASO/src/composite">Composite</a></li>
+    <li><a href="https://github.com/Dreivko/ASO/tree/master/ASO/ASO/src/interpreter">Interpreter</a></li>
+    <li><a href="https://github.com/Dreivko/ASO/tree/master/ASO/ASO/src/mediator">Mediator</a></li>
     <li><a href="https://github.com/Dreivko/ASO/tree/master/ASO/ASO/src/proxy">Proxy</a></li>
     <li><a href="https://github.com/Dreivko/ASO/tree/master/ASO/ASO/src/singleton">Singleton</a></li>
   </ul>
